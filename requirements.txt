@@ -1,0 +1,6 @@
+requests==2.10.0
+aiohttp==0.22.2
+asyncio==3.4.3
+chardet==2.3.0
+msgpack-python==0.4.7
+multidict==1.2.1
